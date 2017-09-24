@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintGround</string>
+    <string name="very_short">sh</string>
+    <string name="very_long">Ever so Loooooooooooooooooong</string>
+    <string name="longish">Loooooooooooooooooong</string>
+    <string name="shortish">shrt</string>
+</resources>
